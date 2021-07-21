@@ -2,7 +2,7 @@
 
 👨‍💻 职业：前端工程师
 
-🛠 技能：JavaScript/Nodejs
+🛠 技能：JavaScript/reactjs/Nodejs
 
 🖥 个人网站：https://www.thisjs.com
 
